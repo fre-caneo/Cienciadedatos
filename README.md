@@ -7,4 +7,5 @@ Ejecuta todas las celdas en orden; el cuaderno reconstruye el conjunto explorado
 El análisis, las visualizaciones y la revisión ética se basan únicamente en los datos de CONASET.
 La entrega 3 previa mantiene el análisis anterior; el historial del repositorio conserva la secuencia del proyecto.
 Los conteos no son tasas de riesgo por viaje y la capa no representa necesariamente todos los siniestros ocurridos en Chile.
+Rama pública de esta entrega: https://github.com/fre-caneo/Cienciadedatos/tree/Sumativa5
 
